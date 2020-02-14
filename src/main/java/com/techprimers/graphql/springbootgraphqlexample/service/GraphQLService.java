@@ -1,9 +1,9 @@
-package com.techprimers.graphql.springbootgrapqlexample.service;
+package com.techprimers.graphql.springbootgraphqlexample.service;
 
-import com.techprimers.graphql.springbootgrapqlexample.model.Book;
-import com.techprimers.graphql.springbootgrapqlexample.repository.BookRepository;
-import com.techprimers.graphql.springbootgrapqlexample.service.datafetcher.AllBooksDataFetcher;
-import com.techprimers.graphql.springbootgrapqlexample.service.datafetcher.BookDataFetcher;
+import com.techprimers.graphql.springbootgraphqlexample.model.Book;
+import com.techprimers.graphql.springbootgraphqlexample.repository.BookRepository;
+import com.techprimers.graphql.springbootgraphqlexample.service.datafetcher.AllBooksDataFetcher;
+import com.techprimers.graphql.springbootgraphqlexample.service.datafetcher.BookDataFetcher;
 import graphql.GraphQL;
 import graphql.schema.GraphQLSchema;
 import graphql.schema.idl.RuntimeWiring;

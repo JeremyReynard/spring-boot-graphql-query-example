@@ -1,4 +1,4 @@
-package com.techprimers.graphql.springbootgrapqlexample.model;
+package com.techprimers.graphql.springbootgraphqlexample.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
